@@ -1,2 +1,4 @@
-# BuildingOptimalPlacementModelforBankBranch
-"Building an Optimal Placement Model for a Bank Branch". 
+# Project description 
+The main goal of the project was to obtain a model that predicts a specific degree of its effectiveness.
+The project included two stages: first, the data collection with processing, and data analysis. Based on this investigation, a model library was created using open-source solutions of the Python (scikit-learn). Due to the specifics of the required information, data collection is carried out manually and this process was time-consuming. For this reason, 4 people took part in this action. 300 bank branches in three most populous cities in Russia (Moscow, Saint Petersburg, Samara).
+Main aspects: distance from a branch to 1) the closest subway station, 2) the bus station, 3) the road. Moreover, each observation consisted of the total area, its effectiveness, and its rating. There were two utility functions. 
